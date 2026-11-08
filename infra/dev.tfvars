@@ -1,2 +1,2 @@
 environment    = "dev"
-instance_count = 1
+instance_count = 2
